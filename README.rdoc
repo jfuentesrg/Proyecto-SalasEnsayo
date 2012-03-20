@@ -1,6 +1,8 @@
 Jorge Trujillo
 Marco Via
 Paul Gutierrez
+Daniel Fujimoto
+Javier Fuentes
 
 == Welcome to Rails
 
